@@ -1,0 +1,9 @@
+.high {
+    height: 10rem;
+}
+
+.item {
+    margin-bottom: 2px;
+    width: 95%;
+    text-align: left;
+}
